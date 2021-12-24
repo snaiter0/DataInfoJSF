@@ -68,21 +68,21 @@ A JSF irá abrir automaticamente em seu navegador default: <br>
 
 
 
-Para analise da aplicação feita em JFrame, o processo é muito simples, 
-Passo 1: Vamos adicionar o MySQL Connector. clique no projeto e aperte F4:
+Para analise da aplicação feita em JFrame, o processo é muito simples,  <br>
+Passo 1: Vamos adicionar o MySQL Connector. clique no projeto e aperte F4:  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995955879976/Screenshot_62.png?width=1114&height=676">
 
-Passo 2: Em modules > Sefaz > Dependencies, clique no "+" e library:
+Passo 2: Em modules > Sefaz > Dependencies, clique no "+" e library:    <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995645530153/Screenshot_63.png?width=815&height=676">
 
-Passo 3: Selecione o modulo MySQL Connector 8.0.27
+Passo 3: Selecione o modulo MySQL Connector 8.0.27  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995414810695/Screenshot_64.png">
 
-Passo 4: Navegue entre os diretórios
+Passo 4: Navegue entre os diretórios    <br>
 src>main>java>com.example.sefaz>Executavel>RunableApplication:
-<img src="https://media.discordapp.net/attachments/887792356223508541/924084989874815016/Screenshot_60.png"
+<img src="https://media.discordapp.net/attachments/887792356223508541/924084989874815016/Screenshot_60.png">
     
-Passo 5: Aí é só executar :D
+Passo 5: Aí é só executar :D    <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086996194979870/Screenshot_61.png?width=461&height=676">
 
 
