@@ -63,7 +63,7 @@ Passo 10: Execute o servidor localmente :)  <br>
 A JSF irá abrir automaticamente em seu navegador default: <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924080630659170324/Screenshot_59.png">
 
-
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -78,8 +78,7 @@ Passo 2: Em modules > Sefaz > Dependencies, clique no "+" e library:    <br>
 Passo 3: Selecione o modulo MySQL Connector 8.0.27  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995414810695/Screenshot_64.png">
 
-Passo 4: Navegue entre os diretórios    <br>
-src>main>java>com.example.sefaz>Executavel>RunableApplication:
+Passo 4: Navegue entre os diretórios src>main>java>com.example.sefaz>Executavel>RunableApplication: <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924084989874815016/Screenshot_60.png">
     
 Passo 5: Aí é só executar :D    <br>
