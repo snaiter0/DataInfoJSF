@@ -29,38 +29,38 @@ desenvolver esta interface web nesta tecnologia, que sinceramente, ainda não ti
 Os passos para conseguir utilizar devidamente este repositório, após clonar, será o de adicionar em sua
 IDE, neste caso irei utilizar o IntelliJ.
 
-Passo 1: Clique em File > Open
+Passo 1: Clique em File > Open  <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924080602741870613/Screenshot_47.png" >
 
-Passo 2: Selecione o diretório clonado
+Passo 2: Selecione o diretório clonado  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080602188234833/Screenshot_49.png">
 
-Passo 3: Configure o wildFly no lado superior direito
+Passo 3: Configure o wildFly no lado superior direito <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080601995292722/Screenshot_50.png?width=1279&height=676">
 
-Passo 4: Adicione o JBOSS/WildFly, você pode simplesmente digitar JBOSS, para pesquisa-lo
+Passo 4: Adicione o JBOSS/WildFly, você pode simplesmente digitar JBOSS, para pesquisa-lo <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080601777201172/Screenshot_51.png?width=1030&height=676">
 
-Passo 5: Selecione sua JDK
+Passo 5: Selecione sua JDK  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080601546489916/Screenshot_52.png?width=997&height=676">
 
-Passo 6: Selecione o Artefato que será hospedado, clicando na aba Deployment e posteriormente no "+" > artifact
+Passo 6: Selecione o Artefato que será hospedado, clicando na aba Deployment e posteriormente no "+" > artifact <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080601340989440/Screenshot_53.png?width=973&height=676">
 
-Passo 7: Dentre as 3 opções, selecione o Sefaz: exploded, ele está configurado como hotplug (auto update)
+Passo 7: Dentre as 3 opções, selecione o Sefaz: exploded, ele está configurado como hotplug (auto update) <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080601122893894/Screenshot_54.png?width=981&height=676">
 
-Passo 8: Apenas clique em OK
+Passo 8: Apenas clique em OK  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080600913174558/Screenshot_55.png?width=991&height=676">
 
 Passo 9: Confira se o WildFly foi adicionado adequadamente, ele deve aparecer como WildFly 26.0.0, caso contrario, adicione 
-seu diretório manualmente:
+seu diretório manualmente:  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080631347040306/Screenshot_57.png?width=1166&height=676">
 
-Passo 10: Execute o servidor localmente :)
+Passo 10: Execute o servidor localmente :)  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924080600657305631/Screenshot_56.png?width=1245&height=676">
 
-A JSF irá abrir automaticamente em seu navegador default: 
+A JSF irá abrir automaticamente em seu navegador default: <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924080630659170324/Screenshot_59.png">
 
 <img src="">
