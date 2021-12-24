@@ -29,12 +29,13 @@ desenvolver esta interface web nesta tecnologia, que sinceramente, ainda não ti
 Os passos para conseguir utilizar devidamente este repositório, após clonar, será o de adicionar em sua
 IDE, neste caso irei utilizar o IntelliJ.
 
-<img src="" >
+Passo 1: Clique em File > Open
+<img src="https://cdn.discordapp.com/attachments/887792356223508541/924080602741870613/Screenshot_47.png" >
 
 
 
 
-                                          Material de consulta:   <br>
+Material de consulta:   <br>
 
 Documentação:          <br>
 https://docs.oracle.com/javaee/5/tutorial/doc/bnarf.html#bnarr  <br>
