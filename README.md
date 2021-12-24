@@ -63,9 +63,6 @@ Passo 10: Execute o servidor localmente :)  <br>
 A JSF irá abrir automaticamente em seu navegador default: <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924080630659170324/Screenshot_59.png">
 
-<img src="">
-<img src="">
-<img src="">
 
 Material de consulta:   <br>
 
