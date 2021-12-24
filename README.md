@@ -34,19 +34,19 @@ IDE, neste caso irei utilizar o IntelliJ.
 
 
 
-Material de consulta:
+Material de consulta:   <br>
 
 Documentação:          <br>
-https://docs.oracle.com/javaee/5/tutorial/doc/bnarf.html#bnarr  ;
-https://docs.oracle.com/cd/E17802_01/j2ee/j2ee/1.4/docs/tutorial-update2/doc/JSPIntro7.html  ;
+https://docs.oracle.com/javaee/5/tutorial/doc/bnarf.html#bnarr  <br>
+https://docs.oracle.com/cd/E17802_01/j2ee/j2ee/1.4/docs/tutorial-update2/doc/JSPIntro7.html  <br>
 
 Repositórios de exemplo:      <br>
-https://github.com/in28minutes/JavaWebApplicationStepByStep/blob/master/Step27.md  ;
-https://github.com/devdojobr/maratona-jsf/blob/master/web/comunicacao.xhtml  ;
+https://github.com/in28minutes/JavaWebApplicationStepByStep/blob/master/Step27.md  <br>
+https://github.com/devdojobr/maratona-jsf/blob/master/web/comunicacao.xhtml  <br>
 
 Aplicações em JSF/JSP     <br>
-https://www.youtube.com/watch?v=V16abKUY8Ao&list=PLXbKgo5jPQE_onw_8jAgEUXLP7jHgcP2-  ;
-https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J  ;
-https://www.youtube.com/watch?v=egjAIheBFDY&t  ;
+https://www.youtube.com/watch?v=V16abKUY8Ao&list=PLXbKgo5jPQE_onw_8jAgEUXLP7jHgcP2-  <br>
+https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J  <br>
+https://www.youtube.com/watch?v=egjAIheBFDY&t  <br>
 
 
