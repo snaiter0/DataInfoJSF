@@ -85,7 +85,7 @@ A JSF irá abrir automaticamente em seu navegador default: <br>
 
 
 
-Para analise da aplicação feita em JFrame, o processo é muito simples,  <br>
+Para averiguar a aplicação feita em JFrame, o processo é muito simples,  <br>
 Passo 1: Vamos adicionar o MySQL Connector. clique no projeto e aperte F4:  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995955879976/Screenshot_62.png?width=1114&height=676">
 
