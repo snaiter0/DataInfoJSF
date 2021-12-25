@@ -26,8 +26,8 @@ Como me foi solicitado via e-mail, eu deveria enviar o que fosse desenvolvido e 
 pensando nisso, a unica ideia que tive, foi a de unir meu prótotipo na qual estava me baseando para
 desenvolver esta interface web nesta tecnologia, que sinceramente, ainda não tinha experiencia prévia.
 
-Os passos para conseguir utilizar devidamente este repositório, após clonar, será o de adicionar em sua
-IDE, neste caso irei utilizar o IntelliJ.
+Irei direcionar os passos para conseguir utilizar devidamente este repositório após clona-lo,
+durante o direcionamento irei utilizar a IDE IntelliJ.
 
 Atenção, o banco de dados deve ser criado/configurado previamente para atender a 4 propriedades: email, 
 usuario, senha e telefone, todos são do tipo String.
