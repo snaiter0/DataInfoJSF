@@ -14,11 +14,11 @@ Porém antes de iniciar o aprendizado em JSF, eu havia planejado um protótipo d
 nesta tecnologia, utilizando apenas Java, driver para o MySQL e JFrame, desenvolvi uma interface GUI simples,
 orientada a eventos e levemente a objetos. Ela foi capaz de alcançar diversas funcionalidades como:
 
-Logar;
-Cadastrar;
-Alterar;
-Listar;
-Deletar;
+Logar;  <br>
+Cadastrar;  <br>
+Alterar;  <br>
+Listar; <br>
+Deletar;  <br>
 
 Utilizando como DBA o MySQL.
 
