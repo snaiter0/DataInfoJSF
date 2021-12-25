@@ -29,6 +29,23 @@ desenvolver esta interface web nesta tecnologia, que sinceramente, ainda não ti
 Os passos para conseguir utilizar devidamente este repositório, após clonar, será o de adicionar em sua
 IDE, neste caso irei utilizar o IntelliJ.
 
+Atenção, o banco de dados deve ser criado/configurado previamente para atender a 4 propriedades: email, 
+usuario, senha e telefone, todos são do tipo String.
+Recomendo seguir os comandos:
+
+create db_senhas
+use db_senhas
+CREATE TABLE 'db_senhas'.'dados_senhas' (
+  'id' INT NOT NULL AUTO_INCREMENT,
+  'email' VARCHAR(100) NULL,
+  'nome' VARCHAR(50) NULL,
+  'senha' VARCHAR(50) NULL,
+  'telefone' VARCHAR(50) NULL,
+  PRIMARY KEY ('id'));
+  
+  Você pode também aproveitar para inserir o primeiro valor na tabela antecipadamente, mas não
+  é realmente necessário, já que existe sistema de cadastro na aplicação com JFrame.
+
 Passo 1: Clique em File > Open  <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924080602741870613/Screenshot_47.png" >
 
@@ -80,10 +97,7 @@ Passo 3: Selecione o modulo MySQL Connector 8.0.27 e o adicione.  <br>
 
 Passo 4: Configure para autenticação do seu MySql:      <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924091590132260874/Screenshot_66.png">
-<br><br><br><br>
-Atenção, o banco de dados foi cadastrado para atender a 4 propriedades, email, usuario, senha e telefone.
-Todos são do tipo String.                   <br>
-<br><br><br><br>
+
 Passo 5: Navegue entre os diretórios src>main>java>com.example.sefaz>Executavel>RunableApplication: <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924084989874815016/Screenshot_60.png">
     
