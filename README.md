@@ -83,7 +83,18 @@ Passo 4: Navegue entre os diretórios src>main>java>com.example.sefaz>Executavel
     
 Passo 5: Aí é só executar :D    <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086996194979870/Screenshot_61.png?width=461&height=676">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+
+
+Imagem para instruir caso tenha problemas:  <br>
+<img src="https://cdn.discordapp.com/attachments/887792356223508541/924090233799200818/Screenshot_65.png">
 
 Material de consulta:   <br>
 
