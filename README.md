@@ -33,8 +33,8 @@ Atenção, o banco de dados deve ser criado/configurado previamente para atender
 usuario, senha e telefone, todos são do tipo String.
 Recomendo seguir os comandos:
 
-create db_senhas  <br>
-use db_senhas <br>
+create db_senhas;  <br>
+use db_senhas; <br>
 CREATE TABLE 'db_senhas'.'dados_senhas' ( <br>
   'id' INT NOT NULL AUTO_INCREMENT, <br>
   'email' VARCHAR(100) NULL,  <br>
