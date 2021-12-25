@@ -78,10 +78,16 @@ Passo 2: Em modules > Sefaz > Dependencies, clique no "+" e library:    <br>
 Passo 3: Selecione o modulo MySQL Connector 8.0.27 e o adicione.  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995414810695/Screenshot_64.png">
 
-Passo 4: Navegue entre os diretórios src>main>java>com.example.sefaz>Executavel>RunableApplication: <br>
+Passo 4: Configure para autenticação do seu MySql:      <br>
+<img src="https://cdn.discordapp.com/attachments/887792356223508541/924091590132260874/Screenshot_66.png">
+<br><br><br><br>
+Atenção, o banco de dados foi cadastrado para atender a 4 propriedades, email, usuario, senha e telefone.
+Todos são do tipo String.                   <br>
+<br><br><br><br>
+Passo 5: Navegue entre os diretórios src>main>java>com.example.sefaz>Executavel>RunableApplication: <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924084989874815016/Screenshot_60.png">
     
-Passo 5: Aí é só executar :D    <br>
+Passo 6: Aí é só executar :D    <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086996194979870/Screenshot_61.png?width=461&height=676">
 <br>
 <br>
@@ -91,10 +97,13 @@ Passo 5: Aí é só executar :D    <br>
 <br>
 <br>
 
+Para logar, você irá precisar registrar um novo usuario, ele utiliza o nome e senha para autenticar.
 
 
 Imagem para instruir caso tenha problemas:  <br>
 <img src="https://cdn.discordapp.com/attachments/887792356223508541/924090233799200818/Screenshot_65.png">
+
+
 
 Material de consulta:   <br>
 
