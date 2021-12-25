@@ -33,15 +33,15 @@ Atenção, o banco de dados deve ser criado/configurado previamente para atender
 usuario, senha e telefone, todos são do tipo String.
 Recomendo seguir os comandos:
 
-create db_senhas
-use db_senhas
-CREATE TABLE 'db_senhas'.'dados_senhas' (
-  'id' INT NOT NULL AUTO_INCREMENT,
-  'email' VARCHAR(100) NULL,
-  'nome' VARCHAR(50) NULL,
-  'senha' VARCHAR(50) NULL,
-  'telefone' VARCHAR(50) NULL,
-  PRIMARY KEY ('id'));
+create db_senhas  <br>
+use db_senhas <br>
+CREATE TABLE 'db_senhas'.'dados_senhas' ( <br>
+  'id' INT NOT NULL AUTO_INCREMENT, <br>
+  'email' VARCHAR(100) NULL,  <br>
+  'nome' VARCHAR(50) NULL,  <br>
+  'senha' VARCHAR(50) NULL, <br>
+  'telefone' VARCHAR(50) NULL,  <br>
+  PRIMARY KEY ('id'));  <br>
   
   Você pode também aproveitar para inserir o primeiro valor na tabela antecipadamente, mas não
   é realmente necessário, já que existe sistema de cadastro na aplicação com JFrame.
