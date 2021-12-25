@@ -75,7 +75,7 @@ Passo 1: Vamos adicionar o MySQL Connector. clique no projeto e aperte F4:  <br>
 Passo 2: Em modules > Sefaz > Dependencies, clique no "+" e library:    <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995645530153/Screenshot_63.png?width=815&height=676">
 
-Passo 3: Selecione o modulo MySQL Connector 8.0.27  <br>
+Passo 3: Selecione o modulo MySQL Connector 8.0.27 e o adicione.  <br>
 <img src="https://media.discordapp.net/attachments/887792356223508541/924086995414810695/Screenshot_64.png">
 
 Passo 4: Navegue entre os diretórios src>main>java>com.example.sefaz>Executavel>RunableApplication: <br>
