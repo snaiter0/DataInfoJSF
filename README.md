@@ -43,7 +43,7 @@ CREATE TABLE 'db_senhas'.'dados_senhas' ( <br>
   'telefone' VARCHAR(50) NULL,  <br>
   PRIMARY KEY ('id'));  <br>
   
-  Baixe o Wildfly 26.0.0 Final, será ele que iremos usar para rodar nosso projeto, ele será incluido no passo a passo.
+  Baixe o Wildfly 26.0.0 Final, será ele que iremos usar para rodar nosso projeto, ele será incluido no passo a passo. <br>
   https://www.wildfly.org
   
   Você pode também aproveitar para inserir o primeiro valor na tabela antecipadamente, mas não
